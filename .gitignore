@@ -1,0 +1,8 @@
+# OS files
+.DS_STORE
+
+# IDE files
+.idea
+
+# Node.js files
+node_modules
